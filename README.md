@@ -12,7 +12,6 @@ This project is a custom implementation of a simple Unix shell in C. It supports
 4. [Dependencies](#dependencies)
 5. [Project Structure](#project-structure)
 6. [Contributors](#contributors)
-7. [License](#license)
 
 ---
 
